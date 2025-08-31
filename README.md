@@ -4,7 +4,9 @@ A simple statistics calculator built in JavaScript while following the [FreeCode
 
 It demonstrates how to use JavaScript array methods like `.reduce()`, `.map()`, `.filter()`, and `.sort()` to compute statistical values.
 
----
+## 📷 Preview
+
+![Statistics Calculator Preview](Preview.webp)
 
 ## ✨ Features
 
@@ -15,8 +17,6 @@ It demonstrates how to use JavaScript array methods like `.reduce()`, `.map()`, 
 - ✅ Variance  
 - ✅ Standard Deviation   
 
----
-
 ## 📂 Project Structure
 
 ```
@@ -24,8 +24,6 @@ It demonstrates how to use JavaScript array methods like `.reduce()`, `.map()`, 
 ├── index.html
 ├── script.js
 └── style.css 
-
----
 
 ## 🚀 How to Use
 
@@ -41,8 +39,6 @@ It demonstrates how to use JavaScript array methods like `.reduce()`, `.map()`, 
    ```
 4. The calculator will display the **mean, median, mode, range, variance, and standard deviation**.
 
----
-
 ## 🛠️ Built With
 
 - **JavaScript (ES6+)**  
@@ -50,16 +46,12 @@ It demonstrates how to use JavaScript array methods like `.reduce()`, `.map()`, 
 - **CSS3**  
 - [FreeCodeCamp](https://www.freecodecamp.org/) learning resources  
 
----
-
 ## 📖 Learning Goals
 
 This project was created to practice:
 - Advanced array methods in JavaScript (`map`, `filter`, `reduce`, `sort`)  
 - DOM manipulation  
 - Implementing core statistical formulas  
-
----
 
 ## 🤝 Contributing
 
