@@ -6,7 +6,7 @@ It demonstrates how to use JavaScript array methods like `.reduce()`, `.map()`, 
 
 ## 📷 Preview
 
-![Statistics Calculator Preview](Preview.webp)
+![Statistics Calculator Preview](images/preview.webp)
 
 ## ✨ Features
 
